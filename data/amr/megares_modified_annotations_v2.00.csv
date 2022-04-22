@@ -1,16 +1,4 @@
 header,type,class,mechanism,group
-MEG_1|Drugs|Aminoglycosides|Aminoglycoside-resistant_16S_ribosomal_subunit_protein|A16S|RequiresSNPConfirmation,Drugs,Aminoglycosides,Aminoglycoside-resistant 16S ribosomal subunit protein,A16S
-MEG_2|Drugs|Aminoglycosides|Aminoglycoside-resistant_16S_ribosomal_subunit_protein|A16S|RequiresSNPConfirmation,Drugs,Aminoglycosides,Aminoglycoside-resistant 16S ribosomal subunit protein,A16S
-MEG_3|Drugs|Aminoglycosides|Aminoglycoside-resistant_16S_ribosomal_subunit_protein|A16S|RequiresSNPConfirmation,Drugs,Aminoglycosides,Aminoglycoside-resistant 16S ribosomal subunit protein,A16S
-MEG_4|Drugs|Aminoglycosides|Aminoglycoside-resistant_16S_ribosomal_subunit_protein|A16S|RequiresSNPConfirmation,Drugs,Aminoglycosides,Aminoglycoside-resistant 16S ribosomal subunit protein,A16S
-MEG_5|Drugs|Aminoglycosides|Aminoglycoside-resistant_16S_ribosomal_subunit_protein|A16S|RequiresSNPConfirmation,Drugs,Aminoglycosides,Aminoglycoside-resistant 16S ribosomal subunit protein,A16S
-MEG_6|Drugs|Aminoglycosides|Aminoglycoside-resistant_16S_ribosomal_subunit_protein|A16S|RequiresSNPConfirmation,Drugs,Aminoglycosides,Aminoglycoside-resistant 16S ribosomal subunit protein,A16S
-MEG_7|Drugs|Aminoglycosides|Aminoglycoside-resistant_16S_ribosomal_subunit_protein|A16S|RequiresSNPConfirmation,Drugs,Aminoglycosides,Aminoglycoside-resistant 16S ribosomal subunit protein,A16S
-MEG_8|Drugs|Aminoglycosides|Aminoglycoside-resistant_16S_ribosomal_subunit_protein|A16S|RequiresSNPConfirmation,Drugs,Aminoglycosides,Aminoglycoside-resistant 16S ribosomal subunit protein,A16S
-MEG_9|Drugs|Aminoglycosides|Aminoglycoside-resistant_16S_ribosomal_subunit_protein|A16S|RequiresSNPConfirmation,Drugs,Aminoglycosides,Aminoglycoside-resistant 16S ribosomal subunit protein,A16S
-MEG_10|Drugs|Aminoglycosides|Aminoglycoside-resistant_16S_ribosomal_subunit_protein|A16S|RequiresSNPConfirmation,Drugs,Aminoglycosides,Aminoglycoside-resistant 16S ribosomal subunit protein,A16S
-MEG_11|Drugs|Aminoglycosides|Aminoglycoside-resistant_16S_ribosomal_subunit_protein|A16S|RequiresSNPConfirmation,Drugs,Aminoglycosides,Aminoglycoside-resistant 16S ribosomal subunit protein,A16S
-MEG_12|Drugs|Aminoglycosides|Aminoglycoside-resistant_16S_ribosomal_subunit_protein|A16S|RequiresSNPConfirmation,Drugs,Aminoglycosides,Aminoglycoside-resistant 16S ribosomal subunit protein,A16S
 MEG_13|Drugs|Aminoglycosides|Aminoglycoside_N-acetyltransferases|AAC2-PRIME,Drugs,Aminoglycosides,Aminoglycoside N-acetyltransferases,AAC2-PRIME
 MEG_14|Drugs|Aminoglycosides|Aminoglycoside_N-acetyltransferases|AAC2-PRIME,Drugs,Aminoglycosides,Aminoglycoside N-acetyltransferases,AAC2-PRIME
 MEG_15|Drugs|Aminoglycosides|Aminoglycoside_N-acetyltransferases|AAC2-PRIME,Drugs,Aminoglycosides,Aminoglycoside N-acetyltransferases,AAC2-PRIME
@@ -409,10 +397,6 @@ MEG_407|Multi-compound|Drug_and_biocide_and_metal_resistance|Drug_and_biocide_an
 MEG_408|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_pumps|ACRE,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux pumps,ACRE
 MEG_409|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_pumps|ACRF,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux pumps,ACRF
 MEG_410|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_pumps|ACRF,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux pumps,ACRF
-MEG_411|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_regulator|ACRR|RequiresSNPConfirmation,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux regulator,ACRR
-MEG_412|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_regulator|ACRR|RequiresSNPConfirmation,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux regulator,ACRR
-MEG_413|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_regulator|ACRR|RequiresSNPConfirmation,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux regulator,ACRR
-MEG_414|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_regulator|ACRR|RequiresSNPConfirmation,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux regulator,ACRR
 MEG_415|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_regulator|ACRS,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux regulator,ACRS
 MEG_416|Drugs|betalactams|Class_C_betalactamases|ACT,Drugs,betalactams,Class C betalactamases,ACT
 MEG_417|Drugs|betalactams|Class_C_betalactamases|ACT,Drugs,betalactams,Class C betalactamases,ACT
@@ -1185,7 +1169,6 @@ MEG_1183|Drugs|betalactams|Class_A_betalactamases|AST,Drugs,betalactams,Class A 
 MEG_1184|Drugs|betalactams|Class_A_betalactamases|AXC,Drugs,betalactams,Class A betalactamases,AXC
 MEG_1185|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_pumps|AXY,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux pumps,AXY
 MEG_1186|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_pumps|AXY,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux pumps,AXY
-MEG_1187|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_pumps|AXYZ|RequiresSNPConfirmation,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux pumps,AXYZ
 MEG_1188|Drugs|betalactams|Class_C_betalactamases|AZECL,Drugs,betalactams,Class C betalactamases,AZECL
 MEG_1189|Drugs|Bacitracin|Undecaprenyl_pyrophosphate_phosphatase|BACA,Drugs,Bacitracin,Undecaprenyl pyrophosphate phosphatase,BACA
 MEG_1190|Drugs|Bacitracin|Undecaprenyl_pyrophosphate_phosphatase|BACA,Drugs,Bacitracin,Undecaprenyl pyrophosphate phosphatase,BACA
@@ -1195,7 +1178,6 @@ MEG_1193|Multi-compound|Drug_and_biocide_and_metal_resistance|Drug_and_biocide_a
 MEG_1194|Multi-compound|Drug_and_biocide_and_metal_resistance|Drug_and_biocide_and_metal_RND_efflux_regulator|BAES,Multi-compound,Drug and biocide and metal resistance,Drug and biocide and metal RND efflux regulator,BAES
 MEG_1195|Multi-compound|Drug_and_biocide_and_metal_resistance|Drug_and_biocide_and_metal_RND_efflux_regulator|BAES,Multi-compound,Drug and biocide and metal resistance,Drug and biocide and metal RND efflux regulator,BAES
 MEG_1196|Drugs|Bacitracin|Undecaprenyl_pyrophosphate_phosphatase|BAHA,Drugs,Bacitracin,Undecaprenyl pyrophosphate phosphatase,BAHA
-MEG_1197|Drugs|Cationic_antimicrobial_peptides|Polymyxin_B_resistance_regulator|BASRS|RequiresSNPConfirmation,Drugs,Cationic antimicrobial peptides,Polymyxin B resistance regulator,BASRS
 MEG_1198|Drugs|Cationic_antimicrobial_peptides|Polymyxin_B_resistance_regulator|BASRS,Drugs,Cationic antimicrobial peptides,Polymyxin B resistance regulator,BASRS
 MEG_1199|Drugs|betalactams|Class_D_betalactamases|BAT,Drugs,betalactams,Class D betalactamases,BAT
 MEG_1200|Drugs|betalactams|Class_A_betalactamases|BBI,Drugs,betalactams,Class A betalactamases,BBI
@@ -1488,7 +1470,6 @@ MEG_1486|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|CADD,Metal
 MEG_1487|Metals|Cadmium_resistance|Cadmium_resistance_regulator|CADR,Metals,Cadmium resistance,Cadmium resistance regulator,CADR
 MEG_1488|Metals|Multi-metal_resistance|Multi-metal_resistance_regulator|CADX,Metals,Multi-metal resistance,Multi-metal resistance regulator,CADX
 MEG_1489|Drugs|betalactams|Class_B_betalactamases|CAM,Drugs,betalactams,Class B betalactamases,CAM
-MEG_1490|Drugs|Cationic_antimicrobial_peptides|Cationic_peptide-resistant_16S_ribosomal_subunit_protein|CAP16S|RequiresSNPConfirmation,Drugs,Cationic antimicrobial peptides,Cationic peptide-resistant 16S ribosomal subunit protein,CAP16S
 MEG_1491|Drugs|Multi-drug_resistance|Multi-drug_ABC_efflux_pumps|CARA,Drugs,Multi-drug resistance,Multi-drug ABC efflux pumps,CARA
 MEG_1492|Drugs|betalactams|Class_A_betalactamases|CARB,Drugs,betalactams,Class A betalactamases,CARB
 MEG_1493|Drugs|betalactams|Class_A_betalactamases|CARB,Drugs,betalactams,Class A betalactamases,CARB
@@ -1592,45 +1573,6 @@ MEG_1590|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATA,Drugs,Phenicol,C
 MEG_1591|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATA,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATA
 MEG_1592|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATA,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATA
 MEG_1593|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATA,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATA
-MEG_1594|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1595|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1596|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1597|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1598|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1599|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1600|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1601|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1602|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1603|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1604|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1605|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1606|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1607|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1608|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1609|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1610|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1611|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1612|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1613|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1614|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1615|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1616|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1617|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1618|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1619|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1620|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1621|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1622|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1623|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1624|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1625|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1626|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1627|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1628|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1629|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1630|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATB|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATB
-MEG_1631|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATP|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATP
-MEG_1632|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATP|RequiresSNPConfirmation,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATP
 MEG_1633|Drugs|Phenicol|Chloramphenicol_acetyltransferases|CATS,Drugs,Phenicol,Chloramphenicol acetyltransferases,CATS
 MEG_1634|Drugs|betalactams|Class_B_betalactamases|CAU,Drugs,betalactams,Class B betalactamases,CAU
 MEG_1635|Drugs|betalactams|Class_B_betalactamases|CAU,Drugs,betalactams,Class B betalactamases,CAU
@@ -1640,7 +1582,6 @@ MEG_1638|Drugs|betalactams|Class_A_betalactamases|CBP,Drugs,betalactams,Class A 
 MEG_1639|Drugs|betalactams|Class_B_betalactamases|CCRA,Drugs,betalactams,Class B betalactamases,CCRA
 MEG_1640|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_MATE_efflux_pumps|CDEA,Multi-compound,Drug and biocide resistance,Drug and biocide MATE efflux pumps,CDEA
 MEG_1641|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_MATE_efflux_pumps|CDEA,Multi-compound,Drug and biocide resistance,Drug and biocide MATE efflux pumps,CDEA
-MEG_1642|Drugs|Lipopeptides|Daptomycin-resistant_mutant|CDSA|RequiresSNPConfirmation,Drugs,Lipopeptides,Daptomycin-resistant mutant,CDSA
 MEG_1643|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_pumps|CEOA,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux pumps,CEOA
 MEG_1644|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_pumps|CEOB,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux pumps,CEOB
 MEG_1645|Drugs|betalactams|Class_A_betalactamases|CEPA,Drugs,betalactams,Class A betalactamases,CEPA
@@ -1728,9 +1669,6 @@ MEG_1726|Drugs|Multi-drug_resistance|MDR_23S_ribosomal_RNA_methyltransferase|CLB
 MEG_1727|Drugs|Multi-drug_resistance|MDR_23S_ribosomal_RNA_methyltransferase|CLBB,Drugs,Multi-drug resistance,MDR 23S ribosomal RNA methyltransferase,CLBB
 MEG_1728|Drugs|Multi-drug_resistance|MDR_23S_ribosomal_RNA_methyltransferase|CLBC,Drugs,Multi-drug resistance,MDR 23S ribosomal RNA methyltransferase,CLBC
 MEG_1729|Drugs|Multi-drug_resistance|MDR_23S_ribosomal_RNA_methyltransferase|CLBD,Drugs,Multi-drug resistance,MDR 23S ribosomal RNA methyltransferase,CLBD
-MEG_1730|Drugs|Lipopeptides|Daptomycin-resistant_mutant|CLS|RequiresSNPConfirmation,Drugs,Lipopeptides,Daptomycin-resistant mutant,CLS
-MEG_1731|Drugs|Lipopeptides|Daptomycin-resistant_mutant|CLS|RequiresSNPConfirmation,Drugs,Lipopeptides,Daptomycin-resistant mutant,CLS
-MEG_1732|Drugs|Lipopeptides|Daptomycin-resistant_mutant|CLS|RequiresSNPConfirmation,Drugs,Lipopeptides,Daptomycin-resistant mutant,CLS
 MEG_1733|Drugs|betalactams|Class_C_betalactamases|CMA,Drugs,betalactams,Class C betalactamases,CMA
 MEG_1734|Drugs|betalactams|Class_C_betalactamases|CMA,Drugs,betalactams,Class C betalactamases,CMA
 MEG_1735|Drugs|betalactams|Class_A_betalactamases|CME,Drugs,betalactams,Class A betalactamases,CME
@@ -2570,8 +2508,6 @@ MEG_2568|Drugs|Trimethoprim|Dihydrofolate_reductase|DFRB,Drugs,Trimethoprim,Dihy
 MEG_2569|Drugs|Trimethoprim|Dihydrofolate_reductase|DFRB,Drugs,Trimethoprim,Dihydrofolate reductase,DFRB
 MEG_2570|Drugs|Trimethoprim|Dihydrofolate_reductase|DFRB,Drugs,Trimethoprim,Dihydrofolate reductase,DFRB
 MEG_2571|Drugs|Trimethoprim|Dihydrofolate_reductase|DFRB,Drugs,Trimethoprim,Dihydrofolate reductase,DFRB
-MEG_2572|Drugs|Trimethoprim|Dihydrofolate_reductase|DFRC|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DFRC
-MEG_2573|Drugs|Trimethoprim|Dihydrofolate_reductase|DFRC|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DFRC
 MEG_2574|Drugs|Trimethoprim|Dihydrofolate_reductase|DFRD,Drugs,Trimethoprim,Dihydrofolate reductase,DFRD
 MEG_2575|Drugs|Trimethoprim|Dihydrofolate_reductase|DFRD,Drugs,Trimethoprim,Dihydrofolate reductase,DFRD
 MEG_2576|Drugs|Trimethoprim|Dihydrofolate_reductase|DFRD,Drugs,Trimethoprim,Dihydrofolate reductase,DFRD
@@ -2613,39 +2549,6 @@ MEG_2611|Drugs|betalactams|Class_C_betalactamases|DHA,Drugs,betalactams,Class C 
 MEG_2612|Drugs|betalactams|Class_C_betalactamases|DHA,Drugs,betalactams,Class C betalactamases,DHA
 MEG_2613|Drugs|betalactams|Class_C_betalactamases|DHA,Drugs,betalactams,Class C betalactamases,DHA
 MEG_2614|Drugs|Phenicol|Phenicol_resistance_MFS_efflux_pumps|DHAP,Drugs,Phenicol,Phenicol resistance MFS efflux pumps,DHAP
-MEG_2615|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2616|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2617|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2618|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2619|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2620|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2621|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2622|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2623|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2624|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2625|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2626|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2627|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2628|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2629|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2630|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2631|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2632|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2633|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2634|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2635|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2636|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2637|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2638|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2639|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2640|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2641|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2642|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2643|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2644|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2645|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2646|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFR|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFR
-MEG_2647|Drugs|Trimethoprim|Dihydrofolate_reductase|DHFRIII|RequiresSNPConfirmation,Drugs,Trimethoprim,Dihydrofolate reductase,DHFRIII
 MEG_2648|Drugs|betalactams|Class_B_betalactamases|DHT,Drugs,betalactams,Class B betalactamases,DHT
 MEG_2649|Drugs|betalactams|Class_B_betalactamases|DIM,Drugs,betalactams,Class B betalactamases,DIM
 MEG_2650|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|DMEF,Metals,Multi-metal resistance,Multi-metal resistance protein,DMEF
@@ -2691,8 +2594,6 @@ MEG_2689|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|DSBB,Metal
 MEG_2690|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|DSBB,Metals,Multi-metal resistance,Multi-metal resistance protein,DSBB
 MEG_2691|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|DSBC,Metals,Multi-metal resistance,Multi-metal resistance protein,DSBC
 MEG_2692|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|DSBC,Metals,Multi-metal resistance,Multi-metal resistance protein,DSBC
-MEG_2693|Drugs|Multi-drug_resistance|Multi-drug_ABC_efflux_pumps|EATAV|RequiresSNPConfirmation,Drugs,Multi-drug resistance,Multi-drug ABC efflux pumps,EATAV
-MEG_2694|Drugs|Multi-drug_resistance|Multi-drug_ABC_efflux_pumps|EATAV|RequiresSNPConfirmation,Drugs,Multi-drug resistance,Multi-drug ABC efflux pumps,EATAV
 MEG_2695|Drugs|betalactams|Class_B_betalactamases|EBR,Drugs,betalactams,Class B betalactamases,EBR
 MEG_2696|Drugs|betalactams|Class_B_betalactamases|EBR,Drugs,betalactams,Class B betalactamases,EBR
 MEG_2697|Biocides|Multi-biocide_resistance|Multi-biocide_SMR_efflux_pump|EBRA,Biocides,Multi-biocide resistance,Multi-biocide SMR efflux pump,EBRA
@@ -2707,11 +2608,6 @@ MEG_2705|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_MFS_efflux_
 MEG_2706|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_ABC_efflux_pumps|EFRA,Multi-compound,Drug and biocide resistance,Drug and biocide ABC efflux pumps,EFRA
 MEG_2707|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_ABC_efflux_pumps|EFRB,Multi-compound,Drug and biocide resistance,Drug and biocide ABC efflux pumps,EFRB
 MEG_2708|Drugs|betalactams|Class_B_betalactamases|ELM,Drugs,betalactams,Class B betalactamases,ELM
-MEG_2709|Drugs|Mycobacterium_tuberculosis-specific_Drug|Ethambutol_resistant_arabinosyltransferase|EMBA|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Ethambutol resistant arabinosyltransferase,EMBA
-MEG_2710|Drugs|Mycobacterium_tuberculosis-specific_Drug|Ethambutol_resistant_arabinosyltransferase|EMBB|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Ethambutol resistant arabinosyltransferase,EMBB
-MEG_2711|Drugs|Mycobacterium_tuberculosis-specific_Drug|Ethambutol_resistant_arabinosyltransferase|EMBB|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Ethambutol resistant arabinosyltransferase,EMBB
-MEG_2712|Drugs|Mycobacterium_tuberculosis-specific_Drug|Ethambutol_resistant_arabinosyltransferase|EMBC|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Ethambutol resistant arabinosyltransferase,EMBC
-MEG_2713|Drugs|Mycobacterium_tuberculosis-specific_Drug|Ethambutol_resistant_arabinosyltransferase|EMBR|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Ethambutol resistant arabinosyltransferase,EMBR
 MEG_2714|Biocides|Quaternary_Ammonium_Compounds_(QACs)_resistance|QAC_efflux_pump|EMEA,Biocides,Quaternary Ammonium Compounds (QACs) resistance,QAC efflux pump,EMEA
 MEG_2715|Biocides|Multi-biocide_resistance|Multi-biocide_RND_efflux_pump|EMHA,Biocides,Multi-biocide resistance,Multi-biocide RND efflux pump,EMHA
 MEG_2716|Biocides|Multi-biocide_resistance|Multi-biocide_RND_efflux_pump|EMHB,Biocides,Multi-biocide resistance,Multi-biocide RND efflux pump,EMHB
@@ -2864,14 +2760,12 @@ MEG_2862|Drugs|betalactams|Class_A_betalactamases|ERP,Drugs,betalactams,Class A 
 MEG_2863|Drugs|betalactams|Class_B_betalactamases|ESP,Drugs,betalactams,Class B betalactamases,ESP
 MEG_2864|Drugs|Phenicol|Chloramphenicol_hydrolase|ESTD,Drugs,Phenicol,Chloramphenicol hydrolase,ESTD
 MEG_2865|Drugs|Phenicol|Chloramphenicol_hydrolase|ESTD,Drugs,Phenicol,Chloramphenicol hydrolase,ESTD
-MEG_2866|Drugs|Mycobacterium_tuberculosis-specific_Drug|Ethionamide-resistant_mutant|ETHA|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Ethionamide-resistant mutant,ETHA
 MEG_2867|Biocides|Acid_resistance|Acid_resistance_regulator|EVGA,Biocides,Acid resistance,Acid resistance regulator,EVGA
 MEG_2868|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_MFS_efflux_regulator|EVGS,Multi-compound,Drug and biocide resistance,Drug and biocide MFS efflux regulator,EVGS
 MEG_2869|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_MFS_efflux_regulator|EVGS,Multi-compound,Drug and biocide resistance,Drug and biocide MFS efflux regulator,EVGS
 MEG_2870|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_MFS_efflux_regulator|EVGS,Multi-compound,Drug and biocide resistance,Drug and biocide MFS efflux regulator,EVGS
 MEG_2871|Drugs|betalactams|Class_B_betalactamases|EVM,Drugs,betalactams,Class B betalactamases,EVM
 MEG_2872|Drugs|betalactams|Class_A_betalactamases|EXO,Drugs,betalactams,Class A betalactamases,EXO
-MEG_2873|Biocides|Phenolic_compound_resistance|Triclosan-resistant_mutation|FABG|RequiresSNPConfirmation,Biocides,Phenolic compound resistance,Triclosan-resistant mutation,FABG
 MEG_2874|Biocides|Phenolic_compound_resistance|Phenolic_resistance_protein|FABI,Biocides,Phenolic compound resistance,Phenolic resistance protein,FABI
 MEG_2875|Biocides|Phenolic_compound_resistance|Phenolic_resistance_protein|FABI,Biocides,Phenolic compound resistance,Phenolic resistance protein,FABI
 MEG_2876|Biocides|Phenolic_compound_resistance|Phenolic_resistance_protein|FABK,Biocides,Phenolic compound resistance,Phenolic resistance protein,FABK
@@ -2931,46 +2825,6 @@ MEG_2929|Drugs|Phenicol|Phenicol_resistance_MFS_efflux_pumps|FLOR,Drugs,Phenicol
 MEG_2930|Drugs|Phenicol|Phenicol_resistance_MFS_efflux_pumps|FLOR,Drugs,Phenicol,Phenicol resistance MFS efflux pumps,FLOR
 MEG_2931|Drugs|Phenicol|Phenicol_resistance_MFS_efflux_pumps|FLOR,Drugs,Phenicol,Phenicol resistance MFS efflux pumps,FLOR
 MEG_2932|Drugs|Aminoglycosides|16S_rRNA_methyltransferases|FMRO,Drugs,Aminoglycosides,16S rRNA methyltransferases,FMRO
-MEG_2933|Drugs|Mycobacterium_tuberculosis-specific_Drug|Para-aminosalicylic_acid_resistant_mutant|FOLC|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Para-aminosalicylic acid resistant mutant,FOLC
-MEG_2934|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2935|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2936|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2937|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2938|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2939|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2940|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2941|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2942|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2943|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2944|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2945|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2946|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2947|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2948|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2949|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2950|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2951|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2952|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2953|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2954|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2955|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2956|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2957|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2958|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2959|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2960|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2961|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2962|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2963|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2964|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2965|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2966|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2967|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2968|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2969|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2970|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2971|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
-MEG_2972|Drugs|Sulfonamides|Sulfonamide-resistant_dihydropteroate_synthases|FOLP|RequiresSNPConfirmation,Drugs,Sulfonamides,Sulfonamide-resistant dihydropteroate synthases,FOLP
 MEG_2973|Drugs|Fosfomycin|Fosfomycin_phosphorylation|FOMA,Drugs,Fosfomycin,Fosfomycin phosphorylation,FOMA
 MEG_2974|Drugs|Fosfomycin|Fosfomycin_phosphorylation|FOMB,Drugs,Fosfomycin,Fosfomycin phosphorylation,FOMB
 MEG_2975|Drugs|Fosfomycin|Fosfomycin_phosphorylation|FOMB,Drugs,Fosfomycin,Fosfomycin phosphorylation,FOMB
@@ -3063,13 +2917,11 @@ MEG_3061|Multi-compound|Biocide_and_metal_resistance|Biocide_and_metal_resistanc
 MEG_3062|Drugs|betalactams|Class_A_betalactamases|FTU,Drugs,betalactams,Class A betalactamases,FTU
 MEG_3063|Metals|Iron_resistance|Iron_resistance_regulator|FURA,Metals,Iron resistance,Iron resistance regulator,FURA
 MEG_3064|Metals|Iron_resistance|Iron_resistance_regulator|FURA,Metals,Iron resistance,Iron resistance regulator,FURA
-MEG_3065|Drugs|Fusidic_acid|Fusidic_acid-resistant_mutation|FUSA|RequiresSNPConfirmation,Drugs,Fusidic acid,Fusidic acid-resistant mutation,FUSA
 MEG_3066|Drugs|Fusidic_acid|Ribosomal_zinc-binding_protein|FUSB,Drugs,Fusidic acid,Ribosomal zinc-binding protein,FUSB
 MEG_3067|Drugs|Fusidic_acid|Ribosomal_zinc-binding_protein|FUSB,Drugs,Fusidic acid,Ribosomal zinc-binding protein,FUSB
 MEG_3068|Drugs|Fusidic_acid|Ribosomal_zinc-binding_protein|FUSC,Drugs,Fusidic acid,Ribosomal zinc-binding protein,FUSC
 MEG_3069|Drugs|Fusidic_acid|Ribosomal_zinc-binding_protein|FUSD,Drugs,Fusidic acid,Ribosomal zinc-binding protein,FUSD
 MEG_3070|Drugs|Fusidic_acid|Ribosomal_zinc-binding_protein|FUSD,Drugs,Fusidic acid,Ribosomal zinc-binding protein,FUSD
-MEG_3071|Drugs|Fusidic_acid|Fusidic_acid-resistant_mutation|FUSE|RequiresSNPConfirmation,Drugs,Fusidic acid,Fusidic acid-resistant mutation,FUSE
 MEG_3072|Drugs|Fusidic_acid|Fusidic_acid_esterases|FUSF,Drugs,Fusidic acid,Fusidic acid esterases,FUSF
 MEG_3073|Drugs|Fusidic_acid|Fusidic_acid_esterases|FUSF,Drugs,Fusidic acid,Fusidic acid esterases,FUSF
 MEG_3074|Drugs|Fusidic_acid|Fusidic_acid_esterases|FUSH,Drugs,Fusidic acid,Fusidic acid esterases,FUSH
@@ -3133,7 +2985,6 @@ MEG_3131|Drugs|betalactams|Class_A_betalactamases|GES,Drugs,betalactams,Class A 
 MEG_3132|Multi-compound|Drug_and_biocide_and_metal_resistance|Drug_and_biocide_and_metal_RND_efflux_pumps|GESA,Multi-compound,Drug and biocide and metal resistance,Drug and biocide and metal RND efflux pumps,GESA
 MEG_3133|Multi-compound|Drug_and_biocide_and_metal_resistance|Drug_and_biocide_and_metal_RND_efflux_pumps|GESB,Multi-compound,Drug and biocide and metal resistance,Drug and biocide and metal RND efflux pumps,GESB
 MEG_3134|Multi-compound|Drug_and_biocide_and_metal_resistance|Drug_and_biocide_and_metal_RND_efflux_pumps|GESC,Multi-compound,Drug and biocide and metal resistance,Drug and biocide and metal RND efflux pumps,GESC
-MEG_3135|Drugs|Aminoglycosides|Aminoglycoside-resistant_gidB|GIDB|RequiresSNPConfirmation,Drugs,Aminoglycosides,Aminoglycoside-resistant gidB,GIDB
 MEG_3136|Drugs|betalactams|Class_A_betalactamases|GIL,Drugs,betalactams,Class A betalactamases,GIL
 MEG_3137|Drugs|betalactams|Class_B_betalactamases|GIM,Drugs,betalactams,Class B betalactamases,GIM
 MEG_3138|Drugs|betalactams|Class_B_betalactamases|GIM,Drugs,betalactams,Class B betalactamases,GIM
@@ -3141,8 +2992,6 @@ MEG_3139|Drugs|MLS|Macrolide_glycosyltransferases|GIMA,Drugs,MLS,Macrolide glyco
 MEG_3140|Multi-compound|Biocide_and_metal_resistance|Biocide_and_metal_resistance_protein|GLPF,Multi-compound,Biocide and metal resistance,Biocide and metal resistance protein,GLPF
 MEG_3141|Multi-compound|Biocide_and_metal_resistance|Biocide_and_metal_resistance_protein|GLPF,Multi-compound,Biocide and metal resistance,Biocide and metal resistance protein,GLPF
 MEG_3142|Multi-compound|Biocide_and_metal_resistance|Biocide_and_metal_resistance_protein|GLPF,Multi-compound,Biocide and metal resistance,Biocide and metal resistance protein,GLPF
-MEG_3143|Drugs|Fosfomycin|Fosfomycin_target_mutation|GLPT|RequiresSNPConfirmation,Drugs,Fosfomycin,Fosfomycin target mutation,GLPT
-MEG_3144|Drugs|Fosfomycin|Fosfomycin_target_mutation|GLPT|RequiresSNPConfirmation,Drugs,Fosfomycin,Fosfomycin target mutation,GLPT
 MEG_3145|Drugs|betalactams|Class_B_betalactamases|GOB,Drugs,betalactams,Class B betalactamases,GOB
 MEG_3146|Drugs|betalactams|Class_B_betalactamases|GOB,Drugs,betalactams,Class B betalactamases,GOB
 MEG_3147|Drugs|betalactams|Class_B_betalactamases|GOB,Drugs,betalactams,Class B betalactamases,GOB
@@ -3173,83 +3022,6 @@ MEG_3171|Drugs|betalactams|Class_B_betalactamases|GRD,Drugs,betalactams,Class B 
 MEG_3172|Drugs|Aminoglycosides|16S_rRNA_methyltransferases|GRM,Drugs,Aminoglycosides,16S rRNA methyltransferases,GRM
 MEG_3173|Drugs|Aminoglycosides|16S_rRNA_methyltransferases|GRM,Drugs,Aminoglycosides,16S rRNA methyltransferases,GRM
 MEG_3174|Drugs|Aminoglycosides|16S_rRNA_methyltransferases|GRM,Drugs,Aminoglycosides,16S rRNA methyltransferases,GRM
-MEG_3175|Drugs|Lipopeptides|Daptomycin-resistant_mutant|GSHF|RequiresSNPConfirmation,Drugs,Lipopeptides,Daptomycin-resistant mutant,GSHF
-MEG_3176|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3177|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3178|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3179|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3180|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3181|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3182|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3183|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3184|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3185|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3186|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3187|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3188|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3189|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3190|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3191|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3192|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3193|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3194|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3195|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3196|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3197|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3198|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3199|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3200|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3201|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3202|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3203|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3204|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3205|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3206|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3207|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3208|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3209|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3210|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3211|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3212|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3213|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3214|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3215|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3216|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3217|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3218|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3219|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3220|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3221|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3222|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3223|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3224|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3225|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3226|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3227|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3228|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3229|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3230|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3231|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3232|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3233|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3234|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3235|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3236|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3237|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRA|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRA
-MEG_3238|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRB|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRB
-MEG_3239|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRB|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRB
-MEG_3240|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRB|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRB
-MEG_3241|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRB|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRB
-MEG_3242|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRB|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRB
-MEG_3243|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRB|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRB
-MEG_3244|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|GYRBA|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,GYRBA
-MEG_3245|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|GYRBA|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,GYRBA
-MEG_3246|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|GYRBA|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,GYRBA
-MEG_3247|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|GYRBA|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,GYRBA
-MEG_3248|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|GYRBA|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,GYRBA
-MEG_3249|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|GYRBA|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,GYRBA
-MEG_3250|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|GYRBA|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,GYRBA
-MEG_3251|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|GYRC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,GYRC
 MEG_3252|Biocides|Multi-biocide_resistance|Multi-biocide_RND_efflux_pump|HASF,Biocides,Multi-biocide resistance,Multi-biocide RND efflux pump,HASF
 MEG_3253|Biocides|Acid_resistance|Acid_resistance_protein|HDEA,Biocides,Acid resistance,Acid resistance protein,HDEA
 MEG_3254|Biocides|Acid_resistance|Acid_resistance_protein|HDEB,Biocides,Acid resistance,Acid resistance protein,HDEB
@@ -3294,7 +3066,6 @@ MEG_3292|Drugs|Lipopeptides|Colistin_phosphoethanolamine_transferase|ICR,Drugs,L
 MEG_3293|Drugs|Lipopeptides|Colistin_phosphoethanolamine_transferase|ICR,Drugs,Lipopeptides,Colistin phosphoethanolamine transferase,ICR
 MEG_3294|Multi-compound|Biocide_and_metal_resistance|Biocide_and_metal_resistance_protein|IDER,Multi-compound,Biocide and metal resistance,Biocide and metal resistance protein,IDER
 MEG_3295|Drugs|Mupirocin|Mupirocin-resistant_isoleucyl-tRNA_synthetase|ILES,Drugs,Mupirocin,Mupirocin-resistant isoleucyl-tRNA synthetase,ILES
-MEG_3296|Drugs|Mupirocin|Mupirocin-resistant_isoleucyl-tRNA_synthetase|ILES|RequiresSNPConfirmation,Drugs,Mupirocin,Mupirocin-resistant isoleucyl-tRNA synthetase,ILES
 MEG_3297|Drugs|betalactams|Class_A_betalactamases|IMI,Drugs,betalactams,Class A betalactamases,IMI
 MEG_3298|Drugs|betalactams|Class_A_betalactamases|IMI,Drugs,betalactams,Class A betalactamases,IMI
 MEG_3299|Drugs|betalactams|Class_A_betalactamases|IMI,Drugs,betalactams,Class A betalactamases,IMI
@@ -3427,10 +3198,6 @@ MEG_3425|Drugs|betalactams|Class_B_betalactamases|IND,Drugs,betalactams,Class B 
 MEG_3426|Drugs|betalactams|Class_B_betalactamases|IND,Drugs,betalactams,Class B betalactamases,IND
 MEG_3427|Drugs|betalactams|Class_B_betalactamases|IND,Drugs,betalactams,Class B betalactamases,IND
 MEG_3428|Drugs|betalactams|Class_B_betalactamases|IND,Drugs,betalactams,Class B betalactamases,IND
-MEG_3429|Drugs|Mycobacterium_tuberculosis-specific_Drug|Isoniazid-resistant_mutant|INHA|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Isoniazid-resistant mutant,INHA
-MEG_3430|Drugs|Mycobacterium_tuberculosis-specific_Drug|Ethambutol-resistant_mutant|INIA|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Ethambutol-resistant mutant,INIA
-MEG_3431|Drugs|Mycobacterium_tuberculosis-specific_Drug|Ethambutol-resistant_mutant|INIB|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Ethambutol-resistant mutant,INIB
-MEG_3432|Drugs|Mycobacterium_tuberculosis-specific_Drug|Ethambutol-resistant_mutant|INIC|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Ethambutol-resistant mutant,INIC
 MEG_3433|Drugs|Multi-drug_resistance|Multi-drug_MFS_efflux_pumps|IRFA,Drugs,Multi-drug resistance,Multi-drug MFS efflux pumps,IRFA
 MEG_3434|Drugs|Rifampin|Monooxygenase|IRI,Drugs,Rifampin,Monooxygenase,IRI
 MEG_3435|Metals|Multi-metal_resistance|Multi-metal_resistance_regulator|IRLR,Metals,Multi-metal resistance,Multi-metal resistance regulator,IRLR
@@ -3443,8 +3210,6 @@ MEG_3441|Drugs|betalactams|Class_B_betalactamases|JOHN,Drugs,betalactams,Class B
 MEG_3442|Drugs|Aminoglycosides|16S_rRNA_methyltransferases|KAMB,Drugs,Aminoglycosides,16S rRNA methyltransferases,KAMB
 MEG_3443|Drugs|Aminoglycosides|16S_rRNA_methyltransferases|KAMB,Drugs,Aminoglycosides,16S rRNA methyltransferases,KAMB
 MEG_3444|Drugs|Aminoglycosides|16S_rRNA_methyltransferases|KAMB,Drugs,Aminoglycosides,16S rRNA methyltransferases,KAMB
-MEG_3445|Drugs|Mycobacterium_tuberculosis-specific_Drug|Isoniazid-resistant_mutant|KASA|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Isoniazid-resistant mutant,KASA
-MEG_3446|Drugs|Mycobacterium_tuberculosis-specific_Drug|Isoniazid-resistant_mutant|KATG|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Isoniazid-resistant mutant,KATG
 MEG_3447|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_MFS_efflux_pumps|KDEA,Multi-compound,Drug and biocide resistance,Drug and biocide MFS efflux pumps,KDEA
 MEG_3448|Drugs|Aminoglycosides|Aminoglycoside_efflux_pumps|KDPE,Drugs,Aminoglycosides,Aminoglycoside efflux pumps,KDPE
 MEG_3449|Biocides|Multi-biocide_resistance|Multi-biocide_RND_efflux_pump|KEXD,Biocides,Multi-biocide resistance,Multi-biocide RND efflux pump,KEXD
@@ -3584,15 +3349,8 @@ MEG_3582|Drugs|betalactams|Class_A_betalactamases|LHK,Drugs,betalactams,Class A 
 MEG_3583|Drugs|betalactams|Class_A_betalactamases|LHK,Drugs,betalactams,Class A betalactamases,LHK
 MEG_3584|Drugs|betalactams|Class_A_betalactamases|LHK,Drugs,betalactams,Class A betalactamases,LHK
 MEG_3585|Drugs|betalactams|Class_A_betalactamases|LHK,Drugs,betalactams,Class A betalactamases,LHK
-MEG_3586|Drugs|Lipopeptides|Daptomycin-resistant_mutant|LIAFSR|RequiresSNPConfirmation,Drugs,Lipopeptides,Daptomycin-resistant mutant,LIAFSR
-MEG_3587|Drugs|Lipopeptides|Daptomycin-resistant_mutant|LIAFSR|RequiresSNPConfirmation,Drugs,Lipopeptides,Daptomycin-resistant mutant,LIAFSR
-MEG_3588|Drugs|Lipopeptides|Daptomycin-resistant_mutant|LIAFSR|RequiresSNPConfirmation,Drugs,Lipopeptides,Daptomycin-resistant mutant,LIAFSR
-MEG_3589|Drugs|Lipopeptides|Daptomycin-resistant_mutant|LIAFSR|RequiresSNPConfirmation,Drugs,Lipopeptides,Daptomycin-resistant mutant,LIAFSR
-MEG_3590|Drugs|Lipopeptides|Daptomycin-resistant_mutant|LIAFSR|RequiresSNPConfirmation,Drugs,Lipopeptides,Daptomycin-resistant mutant,LIAFSR
-MEG_3591|Drugs|Lipopeptides|Daptomycin-resistant_mutant|LIAFSR|RequiresSNPConfirmation,Drugs,Lipopeptides,Daptomycin-resistant mutant,LIAFSR
 MEG_3592|Drugs|MLS|Lincosamide_nucleotidyltransferases|LIN,Drugs,MLS,Lincosamide nucleotidyltransferases,LIN
 MEG_3593|Drugs|MLS|23S_rRNA_methyltransferases|LLMA,Drugs,MLS,23S rRNA methyltransferases,LLMA
-MEG_3594|Drugs|Multi-drug_resistance|Multi-drug_ABC_efflux_pumps|LMRA|RequiresSNPConfirmation,Drugs,Multi-drug resistance,Multi-drug ABC efflux pumps,LMRA
 MEG_3595|Drugs|Multi-drug_resistance|Multi-drug_ABC_efflux_pumps|LMRB,Drugs,Multi-drug resistance,Multi-drug ABC efflux pumps,LMRB
 MEG_3596|Drugs|Multi-drug_resistance|Multi-drug_ABC_efflux_pumps|LMRC,Drugs,Multi-drug resistance,Multi-drug ABC efflux pumps,LMRC
 MEG_3597|Drugs|Multi-drug_resistance|Multi-drug_ABC_efflux_pumps|LMRD,Drugs,Multi-drug resistance,Multi-drug ABC efflux pumps,LMRD
@@ -3624,8 +3382,6 @@ MEG_3622|Biocides|Acetate_resistance|Acetate_resistance_protein|LPDT,Biocides,Ac
 MEG_3623|Biocides|Acetate_resistance|Acetate_resistance_protein|LPDT,Biocides,Acetate resistance,Acetate resistance protein,LPDT
 MEG_3624|Drugs|Multi-drug_resistance|Multi-drug_RND_efflux_pumps|LPEA,Drugs,Multi-drug resistance,Multi-drug RND efflux pumps,LPEA
 MEG_3625|Drugs|Multi-drug_resistance|Multi-drug_RND_efflux_pumps|LPEB,Drugs,Multi-drug resistance,Multi-drug RND efflux pumps,LPEB
-MEG_3626|Drugs|Lipopeptides|Colistin-resistant_mutant|LPXA|RequiresSNPConfirmation,Drugs,Lipopeptides,Colistin-resistant mutant,LPXA
-MEG_3627|Drugs|Lipopeptides|Colistin-resistant_mutant|LPXC|RequiresSNPConfirmation,Drugs,Lipopeptides,Colistin-resistant mutant,LPXC
 MEG_3628|Drugs|betalactams|Class_B_betalactamases|LRA,Drugs,betalactams,Class B betalactamases,LRA
 MEG_3629|Drugs|betalactams|Class_B_betalactamases|LRA,Drugs,betalactams,Class B betalactamases,LRA
 MEG_3630|Drugs|betalactams|Class_B_betalactamases|LRA,Drugs,betalactams,Class B betalactamases,LRA
@@ -3738,7 +3494,6 @@ MEG_3736|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_MFS_efflux_
 MEG_3737|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_MFS_efflux_pumps|MDFA,Multi-compound,Drug and biocide resistance,Drug and biocide MFS efflux pumps,MDFA
 MEG_3738|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_MFS_efflux_pumps|MDFA,Multi-compound,Drug and biocide resistance,Drug and biocide MFS efflux pumps,MDFA
 MEG_3739|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_MFS_efflux_pumps|MDFA,Multi-compound,Drug and biocide resistance,Drug and biocide MFS efflux pumps,MDFA
-MEG_3740|Drugs|Multi-drug_resistance|MDR_23S_rRNA_mutation|MDR23S|RequiresSNPConfirmation,Drugs,Multi-drug resistance,MDR 23S rRNA mutation,MDR23S
 MEG_3741|Multi-compound|Drug_and_biocide_and_metal_resistance|Drug_and_biocide_and_metal_MFS_efflux_pumps|MDRL,Multi-compound,Drug and biocide and metal resistance,Drug and biocide and metal MFS efflux pumps,MDRL
 MEG_3742|Multi-compound|Drug_and_biocide_and_metal_resistance|Drug_and_biocide_and_metal_MFS_efflux_pumps|MDRL,Multi-compound,Drug and biocide and metal resistance,Drug and biocide and metal MFS efflux pumps,MDRL
 MEG_3743|Multi-compound|Drug_and_biocide_and_metal_resistance|Drug_and_biocide_and_metal_MFS_efflux_pumps|MDRL,Multi-compound,Drug and biocide and metal resistance,Drug and biocide and metal MFS efflux pumps,MDRL
@@ -3829,7 +3584,6 @@ MEG_3827|Drugs|MLS|MLS_resistance_MFS_efflux_pumps|MEFB,Drugs,MLS,MLS resistance
 MEG_3828|Drugs|MLS|MLS_resistance_MFS_efflux_pumps|MEFC,Drugs,MLS,MLS resistance MFS efflux pumps,MEFC
 MEG_3829|Drugs|MLS|MLS_resistance_MFS_efflux_pumps|MEFE,Drugs,MLS,MLS resistance MFS efflux pumps,MEFE
 MEG_3830|Drugs|MLS|MLS_resistance_MFS_efflux_pumps|MEFE,Drugs,MLS,MLS resistance MFS efflux pumps,MEFE
-MEG_3831|Drugs|Lipopeptides|Lysocin-resistant_mutant|MENA|RequiresSNPConfirmation,Drugs,Lipopeptides,Lysocin-resistant mutant,MENA
 MEG_3832|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_MATE_efflux_pumps|MEPA,Multi-compound,Drug and biocide resistance,Drug and biocide MATE efflux pumps,MEPA
 MEG_3833|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_MATE_efflux_pumps|MEPA,Multi-compound,Drug and biocide resistance,Drug and biocide MATE efflux pumps,MEPA
 MEG_3834|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_MATE_efflux_pumps|MEPA,Multi-compound,Drug and biocide resistance,Drug and biocide MATE efflux pumps,MEPA
@@ -3929,9 +3683,6 @@ MEG_3927|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_
 MEG_3928|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_regulator|MEXR,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux regulator,MEXR
 MEG_3929|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_regulator|MEXR,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux regulator,MEXR
 MEG_3930|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_regulator|MEXR,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux regulator,MEXR
-MEG_3931|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_regulator|MEXS|RequiresSNPConfirmation,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux regulator,MEXS
-MEG_3932|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_regulator|MEXT|RequiresSNPConfirmation,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux regulator,MEXT
-MEG_3933|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_regulator|MEXT|RequiresSNPConfirmation,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux regulator,MEXT
 MEG_3934|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_regulator|MEXT,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux regulator,MEXT
 MEG_3935|Biocides|Multi-biocide_resistance|Multi-biocide_RND_efflux_pump|MEXV,Biocides,Multi-biocide resistance,Multi-biocide RND efflux pump,MEXV
 MEG_3936|Biocides|Multi-biocide_resistance|Multi-biocide_RND_efflux_pump|MEXW,Biocides,Multi-biocide resistance,Multi-biocide RND efflux pump,MEXW
@@ -3939,7 +3690,6 @@ MEG_3937|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_
 MEG_3938|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_pumps|MEXX,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux pumps,MEXX
 MEG_3939|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_pumps|MEXY,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux pumps,MEXY
 MEG_3940|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_pumps|MEXY,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux pumps,MEXY
-MEG_3941|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_regulator|MEXZ|RequiresSNPConfirmation,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux regulator,MEXZ
 MEG_3942|Drugs|Fluoroquinolones|Quinolone_resistance_protein_Qnr|MFPA,Drugs,Fluoroquinolones,Quinolone resistance protein Qnr,MFPA
 MEG_3943|Drugs|Multi-drug_resistance|MDR_regulator|MGRA,Drugs,Multi-drug resistance,MDR regulator,MGRA
 MEG_3944|Drugs|MLS|Macrolide_glycosyltransferases|MGT,Drugs,MLS,Macrolide glycosyltransferases,MGT
@@ -3973,26 +3723,6 @@ MEG_3971|Drugs|betalactams|Class_C_betalactamases|MIR,Drugs,betalactams,Class C 
 MEG_3972|Drugs|betalactams|Class_C_betalactamases|MIR,Drugs,betalactams,Class C betalactamases,MIR
 MEG_3973|Drugs|betalactams|Class_C_betalactamases|MIR,Drugs,betalactams,Class C betalactamases,MIR
 MEG_3974|Drugs|betalactams|Class_C_betalactamases|MIR,Drugs,betalactams,Class C betalactamases,MIR
-MEG_3975|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
-MEG_3976|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
-MEG_3977|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
-MEG_3978|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
-MEG_3979|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
-MEG_3980|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
-MEG_3981|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
-MEG_3982|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
-MEG_3983|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
-MEG_3984|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
-MEG_3985|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
-MEG_3986|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
-MEG_3987|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
-MEG_3988|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
-MEG_3989|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
-MEG_3990|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
-MEG_3991|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
-MEG_3992|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
-MEG_3993|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
-MEG_3994|Drugs|MLS|Macrolide-resistant_23S_rRNA_mutation|MLS23S|RequiresSNPConfirmation,Drugs,MLS,Macrolide-resistant 23S rRNA mutation,MLS23S
 MEG_3995|Metals|Copper_resistance|Copper_resistance_protein|MMCO,Metals,Copper resistance,Copper resistance protein,MMCO
 MEG_3996|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_SMR_efflux_pumps|MMR,Multi-compound,Drug and biocide resistance,Drug and biocide SMR efflux pumps,MMR
 MEG_3997|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|MNTA,Metals,Multi-metal resistance,Multi-metal resistance protein,MNTA
@@ -4055,7 +3785,6 @@ MEG_4053|Drugs|Cationic_antimicrobial_peptides|Defensin-resistant_mprF|MPRF,Drug
 MEG_4054|Drugs|Cationic_antimicrobial_peptides|Defensin-resistant_mprF|MPRF,Drugs,Cationic antimicrobial peptides,Defensin-resistant mprF,MPRF
 MEG_4055|Drugs|Cationic_antimicrobial_peptides|Defensin-resistant_mprF|MPRF,Drugs,Cationic antimicrobial peptides,Defensin-resistant mprF,MPRF
 MEG_4056|Drugs|Cationic_antimicrobial_peptides|Defensin-resistant_mprF|MPRF,Drugs,Cationic antimicrobial peptides,Defensin-resistant mprF,MPRF
-MEG_4057|Drugs|Lipopeptides|Daptomycin-resistant_mutant|MPRFD|RequiresSNPConfirmation,Drugs,Lipopeptides,Daptomycin-resistant mutant,MPRFD
 MEG_4058|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|MRDH,Metals,Multi-metal resistance,Multi-metal resistance protein,MRDH
 MEG_4059|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|MREA,Metals,Multi-metal resistance,Multi-metal resistance protein,MREA
 MEG_4060|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|MREA,Metals,Multi-metal resistance,Multi-metal resistance protein,MREA
@@ -4085,17 +3814,9 @@ MEG_4083|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_
 MEG_4084|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_pumps|MTRE,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux pumps,MTRE
 MEG_4085|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_pumps|MTRE,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux pumps,MTRE
 MEG_4086|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_RND_efflux_pumps|MTRF,Multi-compound,Drug and biocide resistance,Drug and biocide RND efflux pumps,MTRF
-MEG_4087|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_MFS_efflux_regulator|MTRR|RequiresSNPConfirmation,Multi-compound,Drug and biocide resistance,Drug and biocide MFS efflux regulator,MTRR
-MEG_4088|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_MFS_efflux_regulator|MTRR|RequiresSNPConfirmation,Multi-compound,Drug and biocide resistance,Drug and biocide MFS efflux regulator,MTRR
 MEG_4089|Drugs|Mupirocin|Mupirocin-resistant_isoleucyl-tRNA_synthetase|MUPA,Drugs,Mupirocin,Mupirocin-resistant isoleucyl-tRNA synthetase,MUPA
 MEG_4090|Drugs|Mupirocin|Mupirocin-resistant_isoleucyl-tRNA_synthetase|MUPA,Drugs,Mupirocin,Mupirocin-resistant isoleucyl-tRNA synthetase,MUPA
 MEG_4091|Drugs|Mupirocin|Mupirocin-resistant_isoleucyl-tRNA_synthetase|MUPB,Drugs,Mupirocin,Mupirocin-resistant isoleucyl-tRNA synthetase,MUPB
-MEG_4092|Drugs|Fosfomycin|Fosfomycin_target_mutation|MURA|RequiresSNPConfirmation,Drugs,Fosfomycin,Fosfomycin target mutation,MURA
-MEG_4093|Drugs|Fosfomycin|Fosfomycin_target_mutation|MURA|RequiresSNPConfirmation,Drugs,Fosfomycin,Fosfomycin target mutation,MURA
-MEG_4094|Drugs|Fosfomycin|Fosfomycin_target_mutation|MURA|RequiresSNPConfirmation,Drugs,Fosfomycin,Fosfomycin target mutation,MURA
-MEG_4095|Drugs|Fosfomycin|Fosfomycin_target_mutation|MURA|RequiresSNPConfirmation,Drugs,Fosfomycin,Fosfomycin target mutation,MURA
-MEG_4096|Drugs|Fosfomycin|Fosfomycin_target_mutation|MURA|RequiresSNPConfirmation,Drugs,Fosfomycin,Fosfomycin target mutation,MURA
-MEG_4097|Drugs|Glycopeptides|Vancomycin-resistant_mutation|MURG|RequiresSNPConfirmation,Drugs,Glycopeptides,Vancomycin-resistant mutation,MURG
 MEG_4098|Drugs|betalactams|Class_B_betalactamases|MUS,Drugs,betalactams,Class B betalactamases,MUS
 MEG_4099|Drugs|betalactams|Class_B_betalactamases|MUS,Drugs,betalactams,Class B betalactamases,MUS
 MEG_4100|Drugs|Multi-drug_resistance|Multi-drug_RND_efflux_pumps|MUXA,Drugs,Multi-drug resistance,Multi-drug RND efflux pumps,MUXA
@@ -4107,8 +3828,6 @@ MEG_4105|Drugs|betalactams|Class_B_betalactamases|MYO,Drugs,betalactams,Class B 
 MEG_4106|Drugs|MLS|23S_rRNA_methyltransferases|MYRA,Drugs,MLS,23S rRNA methyltransferases,MYRA
 MEG_4107|Drugs|MLS|23S_rRNA_methyltransferases|MYRA,Drugs,MLS,23S rRNA methyltransferases,MYRA
 MEG_4108|Drugs|betalactams|Class_B_betalactamases|MYX,Drugs,betalactams,Class B betalactamases,MYX
-MEG_4109|Drugs|Multi-drug_resistance|Multi-drug_RND_efflux_pumps|NALC|RequiresSNPConfirmation,Drugs,Multi-drug resistance,Multi-drug RND efflux pumps,NALC
-MEG_4110|Drugs|Multi-drug_resistance|Multi-drug_RND_efflux_regulator|NALD|RequiresSNPConfirmation,Drugs,Multi-drug resistance,Multi-drug RND efflux regulator,NALD
 MEG_4111|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|NCCA,Metals,Multi-metal resistance,Multi-metal resistance protein,NCCA
 MEG_4112|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|NCCB,Metals,Multi-metal resistance,Multi-metal resistance protein,NCCB
 MEG_4113|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|NCCC,Metals,Multi-metal resistance,Multi-metal resistance protein,NCCC
@@ -4128,9 +3847,6 @@ MEG_4126|Metals|Nickel_resistance|Nickel_MFS_efflux_pumps|NCRCN,Metals,Nickel re
 MEG_4127|Metals|Multi-metal_resistance|Multi-metal_MFS_efflux_regulator|NCRY,Metals,Multi-metal resistance,Multi-metal MFS efflux regulator,NCRY
 MEG_4128|Metals|Nickel_resistance|Nickel_MFS_efflux_regulator|NCRYN,Metals,Nickel resistance,Nickel MFS efflux regulator,NCRYN
 MEG_4129|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|NCZA,Metals,Multi-metal resistance,Multi-metal resistance protein,NCZA
-MEG_4130|Drugs|Mycobacterium_tuberculosis-specific_Drug|Isoniazid-resistant_mutant|NDH|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Isoniazid-resistant mutant,NDH
-MEG_4131|Drugs|Mycobacterium_tuberculosis-specific_Drug|Isoniazid-resistant_mutant|NDH|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Isoniazid-resistant mutant,NDH
-MEG_4132|Drugs|Mycobacterium_tuberculosis-specific_Drug|Isoniazid-resistant_mutant|NDH|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Isoniazid-resistant mutant,NDH
 MEG_4133|Drugs|betalactams|Class_B_betalactamases|NDM,Drugs,betalactams,Class B betalactamases,NDM
 MEG_4134|Drugs|betalactams|Class_B_betalactamases|NDM,Drugs,betalactams,Class B betalactamases,NDM
 MEG_4135|Drugs|betalactams|Class_B_betalactamases|NDM,Drugs,betalactams,Class B betalactamases,NDM
@@ -4159,7 +3875,6 @@ MEG_4157|Drugs|betalactams|Class_B_betalactamases|NDM,Drugs,betalactams,Class B 
 MEG_4158|Drugs|betalactams|Class_B_betalactamases|NDM,Drugs,betalactams,Class B betalactamases,NDM
 MEG_4159|Drugs|betalactams|Class_B_betalactamases|NDM,Drugs,betalactams,Class B betalactamases,NDM
 MEG_4160|Metals|Chromium_resistance|Chromium_resistance_protein|NFSA,Metals,Chromium resistance,Chromium resistance protein,NFSA
-MEG_4161|Drugs|Multi-drug_resistance|Multi-drug_RND_efflux_pumps|NFXB|RequiresSNPConfirmation,Drugs,Multi-drug resistance,Multi-drug RND efflux pumps,NFXB
 MEG_4162|Metals|Sodium_resistance|Sodium_resistance_protein|NHAA,Metals,Sodium resistance,Sodium resistance protein,NHAA
 MEG_4163|Metals|Sodium_resistance|Sodium_resistance_protein|NHAB,Metals,Sodium resistance,Sodium resistance protein,NHAB
 MEG_4164|Metals|Sodium_resistance|Sodium_resistance_protein|NHAB,Metals,Sodium resistance,Sodium resistance protein,NHAB
@@ -4221,7 +3936,6 @@ MEG_4219|Metals|Multi-metal_resistance|Multi-metal_MFS_efflux_pumps|NRSD,Metals,
 MEG_4220|Metals|Nickel_resistance|Nickel_resistance_regulator|NRSR,Metals,Nickel resistance,Nickel resistance regulator,NRSR
 MEG_4221|Metals|Nickel_resistance|Nickel_resistance_regulator|NRSS,Metals,Nickel resistance,Nickel resistance regulator,NRSS
 MEG_4222|Drugs|Thiopeptides|Thiostrepton_23S_rRNA_methyltransferases|NSHR,Drugs,Thiopeptides,Thiostrepton 23S rRNA methyltransferases,NSHR
-MEG_4223|Drugs|Oxazolidinone|Oxazolidinone-resistant_23S_rRNA_mutation|O23S|RequiresSNPConfirmation,Drugs,Oxazolidinone,Oxazolidinone-resistant 23S rRNA mutation,O23S
 MEG_4224|Drugs|betalactams|Class_C_betalactamases|OCH,Drugs,betalactams,Class C betalactamases,OCH
 MEG_4225|Drugs|betalactams|Class_C_betalactamases|OCH,Drugs,betalactams,Class C betalactamases,OCH
 MEG_4226|Drugs|betalactams|Class_C_betalactamases|OCH,Drugs,betalactams,Class C betalactamases,OCH
@@ -4277,24 +3991,15 @@ MEG_4275|Drugs|MLS|MLS_resistance_ABC_efflux_pumps|OLEB,Drugs,MLS,MLS resistance
 MEG_4276|Drugs|MLS|MLS_resistance_ABC_efflux_pumps|OLEC,Drugs,MLS,MLS resistance ABC efflux pumps,OLEC
 MEG_4277|Drugs|MLS|Macrolide_glycosyltransferases|OLED,Drugs,MLS,Macrolide glycosyltransferases,OLED
 MEG_4278|Drugs|MLS|Macrolide_glycosyltransferases|OLEI,Drugs,MLS,Macrolide glycosyltransferases,OLEI
-MEG_4279|Drugs|betalactams|Mutant_porin_proteins|OMP36|RequiresSNPConfirmation,Drugs,betalactams,Mutant porin proteins,OMP36
-MEG_4280|Drugs|betalactams|Mutant_porin_proteins|OMP36|RequiresSNPConfirmation,Drugs,betalactams,Mutant porin proteins,OMP36
-MEG_4281|Drugs|betalactams|Mutant_porin_proteins|OMP36|RequiresSNPConfirmation,Drugs,betalactams,Mutant porin proteins,OMP36
-MEG_4282|Drugs|betalactams|Mutant_porin_proteins|OMP36|RequiresSNPConfirmation,Drugs,betalactams,Mutant porin proteins,OMP36
 MEG_4283|Drugs|betalactams|Mutant_porin_proteins|OMP37,Drugs,betalactams,Mutant porin proteins,OMP37
 MEG_4284|Drugs|betalactams|Mutant_porin_proteins|OMP38,Drugs,betalactams,Mutant porin proteins,OMP38
 MEG_4285|Drugs|betalactams|Mutant_porin_proteins|OMPD,Drugs,betalactams,Mutant porin proteins,OMPD
-MEG_4286|Drugs|Multi-drug_resistance|MDR_mutant_porin_proteins|OMPF|RequiresSNPConfirmation,Drugs,Multi-drug resistance,MDR mutant porin proteins,OMPF
-MEG_4287|Drugs|Multi-drug_resistance|MDR_mutant_porin_proteins|OMPF|RequiresSNPConfirmation,Drugs,Multi-drug resistance,MDR mutant porin proteins,OMPF
-MEG_4288|Drugs|Multi-drug_resistance|MDR_mutant_porin_proteins|OMPF|RequiresSNPConfirmation,Drugs,Multi-drug resistance,MDR mutant porin proteins,OMPF
-MEG_4289|Drugs|betalactams|Mutant_porin_proteins|OMPFB|RequiresSNPConfirmation,Drugs,betalactams,Mutant porin proteins,OMPFB
 MEG_4290|Drugs|betalactams|Mutant_porin_proteins|OMPR,Drugs,betalactams,Mutant porin proteins,OMPR
 MEG_4291|Drugs|Multi-drug_resistance|Multi-drug_RND_efflux_pumps|OPCM,Drugs,Multi-drug resistance,Multi-drug RND efflux pumps,OPCM
 MEG_4292|Drugs|Multi-drug_resistance|Multi-drug_RND_efflux_pumps|OPMB,Drugs,Multi-drug resistance,Multi-drug RND efflux pumps,OPMB
 MEG_4293|Drugs|Multi-drug_resistance|Multi-drug_RND_efflux_pumps|OPMD,Drugs,Multi-drug resistance,Multi-drug RND efflux pumps,OPMD
 MEG_4294|Drugs|Multi-drug_resistance|Multi-drug_RND_efflux_pumps|OPMH,Drugs,Multi-drug resistance,Multi-drug RND efflux pumps,OPMH
 MEG_4295|Drugs|Multi-drug_resistance|Multi-drug_RND_efflux_pumps|OPRA,Drugs,Multi-drug resistance,Multi-drug RND efflux pumps,OPRA
-MEG_4296|Drugs|betalactams|Mutant_porin_proteins|OPRD|RequiresSNPConfirmation,Drugs,betalactams,Mutant porin proteins,OPRD
 MEG_4297|Biocides|Multi-biocide_resistance|Multi-biocide_RND_efflux_pump|OPRJ,Biocides,Multi-biocide resistance,Multi-biocide RND efflux pump,OPRJ
 MEG_4298|Biocides|Multi-biocide_resistance|Multi-biocide_RND_efflux_pump|OPRJ,Biocides,Multi-biocide resistance,Multi-biocide RND efflux pump,OPRJ
 MEG_4299|Biocides|Multi-biocide_resistance|Multi-biocide_RND_efflux_pump|OPRM,Biocides,Multi-biocide resistance,Multi-biocide RND efflux pump,OPRM
@@ -5320,93 +5025,14 @@ MEG_5318|Drugs|betalactams|Class_A_betalactamases|OXY,Drugs,betalactams,Class A 
 MEG_5319|Drugs|betalactams|Class_A_betalactamases|OXY,Drugs,betalactams,Class A betalactamases,OXY
 MEG_5320|Drugs|betalactams|Class_A_betalactamases|OXY,Drugs,betalactams,Class A betalactamases,OXY
 MEG_5321|Biocides|Multi-biocide_resistance|Multi-biocide_resistance_regulator|OXYRKP,Biocides,Multi-biocide resistance,Multi-biocide resistance regulator,OXYRKP
-MEG_5322|Drugs|Pactamycin|Pactamycin-resistant_16S_ribosomal_subunit_protein|P16S|RequiresSNPConfirmation,Drugs,Pactamycin,Pactamycin-resistant 16S ribosomal subunit protein,P16S
-MEG_5323|Drugs|Pleuromutilin|Pleuromutilin-resistant_23S_rRNA_mutation|P23S|RequiresSNPConfirmation,Drugs,Pleuromutilin,Pleuromutilin-resistant 23S rRNA mutation,P23S
 MEG_5324|Drugs|betalactams|Class_C_betalactamases|PAC,Drugs,betalactams,Class C betalactamases,PAC
-MEG_5325|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5326|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5327|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5328|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5329|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5330|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5331|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5332|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5333|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5334|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5335|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5336|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5337|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5338|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5339|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5340|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5341|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5342|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5343|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5344|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5345|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5346|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5347|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5348|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5349|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5350|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5351|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5352|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5353|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5354|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5355|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5356|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5357|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5358|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5359|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5360|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5361|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5362|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5363|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PARC|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PARC
-MEG_5364|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5365|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5366|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5367|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5368|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5369|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5370|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5371|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5372|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5373|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5374|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5375|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5376|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5377|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5378|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5379|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5380|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5381|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5382|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5383|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5384|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5385|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5386|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5387|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5388|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5389|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5390|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5391|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5392|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5393|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARE|RequiresSNPConfirmation,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARE
-MEG_5394|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PAREF|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PAREF
-MEG_5395|Drugs|Fluoroquinolones|Fluoroquinolone-resistant_DNA_topoisomerases|PAREF|RequiresSNPConfirmation,Drugs,Fluoroquinolones,Fluoroquinolone-resistant DNA topoisomerases,PAREF
 MEG_5396|Drugs|Aminocoumarins|Aminocoumarin-resistant_DNA_topoisomerases|PARY,Drugs,Aminocoumarins,Aminocoumarin-resistant DNA topoisomerases,PARY
 MEG_5397|Drugs|Fluoroquinolones|Fluoroquinolone_ABC_efflux_pump|PATA,Drugs,Fluoroquinolones,Fluoroquinolone ABC efflux pump,PATA
 MEG_5398|Drugs|Fluoroquinolones|Fluoroquinolone_ABC_efflux_pump|PATB,Drugs,Fluoroquinolones,Fluoroquinolone ABC efflux pump,PATB
-MEG_5399|Drugs|betalactams|Penicillin_binding_protein|PBP1A|RequiresSNPConfirmation,Drugs,betalactams,Penicillin binding protein,PBP1A
 MEG_5400|Drugs|betalactams|Penicillin_binding_protein|PBP2,Drugs,betalactams,Penicillin binding protein,PBP2
-MEG_5401|Drugs|betalactams|Penicillin_binding_protein|PBP2|RequiresSNPConfirmation,Drugs,betalactams,Penicillin binding protein,PBP2
 MEG_5402|Drugs|betalactams|Penicillin_binding_protein|PBP2,Drugs,betalactams,Penicillin binding protein,PBP2
 MEG_5403|Drugs|betalactams|Penicillin_binding_protein|PBP2,Drugs,betalactams,Penicillin binding protein,PBP2
 MEG_5404|Drugs|betalactams|Penicillin_binding_protein|PBP2,Drugs,betalactams,Penicillin binding protein,PBP2
-MEG_5405|Drugs|betalactams|Penicillin_binding_protein|PBP2|RequiresSNPConfirmation,Drugs,betalactams,Penicillin binding protein,PBP2
-MEG_5406|Drugs|betalactams|Penicillin_binding_protein|PBP2B|RequiresSNPConfirmation,Drugs,betalactams,Penicillin binding protein,PBP2B
-MEG_5407|Drugs|betalactams|Penicillin_binding_protein|PBP2X|RequiresSNPConfirmation,Drugs,betalactams,Penicillin binding protein,PBP2X
-MEG_5408|Drugs|betalactams|Penicillin_binding_protein|PBP3|RequiresSNPConfirmation,Drugs,betalactams,Penicillin binding protein,PBP3
 MEG_5409|Drugs|betalactams|Penicillin_binding_protein|PBP4B,Drugs,betalactams,Penicillin binding protein,PBP4B
 MEG_5410|Metals|Lead_resistance|Lead_P-type_ATPase_transporter|PBRA,Metals,Lead resistance,Lead P-type ATPase transporter,PBRA
 MEG_5411|Metals|Lead_resistance|Lead_P-type_ATPase_transporter|PBRB,Metals,Lead resistance,Lead P-type ATPase transporter,PBRB
@@ -5777,13 +5403,6 @@ MEG_5775|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|PFR,Metals
 MEG_5776|Drugs|Lipopeptides|Lipid_A_phosphatase|PGBB,Drugs,Lipopeptides,Lipid A phosphatase,PGBB
 MEG_5777|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|PGPA,Metals,Multi-metal resistance,Multi-metal resistance protein,PGPA
 MEG_5778|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|PGPA,Metals,Multi-metal resistance,Multi-metal resistance protein,PGPA
-MEG_5779|Drugs|Lipopeptides|Daptomycin-resistant_mutant|PGSA|RequiresSNPConfirmation,Drugs,Lipopeptides,Daptomycin-resistant mutant,PGSA
-MEG_5780|Drugs|Lipopeptides|Daptomycin-resistant_mutant|PGSA|RequiresSNPConfirmation,Drugs,Lipopeptides,Daptomycin-resistant mutant,PGSA
-MEG_5781|Drugs|Phenicol|Phenicol-resistant_23S_rRNA_mutation|PH23S|RequiresSNPConfirmation,Drugs,Phenicol,Phenicol-resistant 23S rRNA mutation,PH23S
-MEG_5782|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_ABC_efflux_regulator|PHOB|RequiresSNPConfirmation,Multi-compound,Drug and biocide resistance,Drug and biocide ABC efflux regulator,PHOB
-MEG_5783|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_ABC_efflux_regulator|PHOB|RequiresSNPConfirmation,Multi-compound,Drug and biocide resistance,Drug and biocide ABC efflux regulator,PHOB
-MEG_5784|Drugs|Lipopeptides|Colistin-resistant_mutant|PHOP|RequiresSNPConfirmation,Drugs,Lipopeptides,Colistin-resistant mutant,PHOP
-MEG_5785|Drugs|Lipopeptides|Colistin-resistant_mutant|PHOQ|RequiresSNPConfirmation,Drugs,Lipopeptides,Colistin-resistant mutant,PHOQ
 MEG_5786|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_SMR_efflux_regulator|PHOR,Multi-compound,Drug and biocide resistance,Drug and biocide SMR efflux regulator,PHOR
 MEG_5787|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|PITA,Metals,Multi-metal resistance,Multi-metal resistance protein,PITA
 MEG_5788|Drugs|betalactams|Class_A_betalactamases|PLA,Drugs,betalactams,Class A betalactamases,PLA
@@ -5801,12 +5420,10 @@ MEG_5799|Multi-compound|Drug_and_metal_resistance|Drug_and_metal_MFS_efflux_pump
 MEG_5800|Multi-compound|Drug_and_metal_resistance|Drug_and_metal_MFS_efflux_pumps|PMRCM,Multi-compound,Drug and metal resistance,Drug and metal MFS efflux pumps,PMRCM
 MEG_5801|Drugs|Cationic_antimicrobial_peptides|Lipid_A_modification|PMRF,Drugs,Cationic antimicrobial peptides,Lipid A modification,PMRF
 MEG_5802|Multi-compound|Drug_and_metal_resistance|Drug_and_metal_MFS_efflux_pumps|PMRG,Multi-compound,Drug and metal resistance,Drug and metal MFS efflux pumps,PMRG
-MEG_5803|Drugs|Mycobacterium_tuberculosis-specific_Drug|Pyrazinamide-resistant_mutant|PNCA|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Pyrazinamide-resistant mutant,PNCA
 MEG_5804|Drugs|betalactams|Class_B_betalactamases|PNGM,Drugs,betalactams,Class B betalactamases,PNGM
 MEG_5805|Drugs|betalactams|Class_B_betalactamases|POM,Drugs,betalactams,Class B betalactamases,POM
 MEG_5806|Drugs|betalactams|Class_B_betalactamases|POM,Drugs,betalactams,Class B betalactamases,POM
 MEG_5807|Drugs|betalactams|Class_B_betalactamases|POM,Drugs,betalactams,Class B betalactamases,POM
-MEG_5808|Drugs|Multi-drug_resistance|MDR_mutant_porin_proteins|POR|RequiresSNPConfirmation,Drugs,Multi-drug resistance,MDR mutant porin proteins,POR
 MEG_5809|Drugs|Multi-drug_resistance|Multi-drug_ABC_efflux_pumps|POXT,Drugs,Multi-drug resistance,Multi-drug ABC efflux pumps,POXT
 MEG_5810|Drugs|betalactams|Class_A_betalactamases|PSE,Drugs,betalactams,Class A betalactamases,PSE
 MEG_5811|Drugs|betalactams|Class_A_betalactamases|PSE,Drugs,betalactams,Class A betalactamases,PSE
@@ -5817,7 +5434,6 @@ MEG_5815|Metals|Arsenic_resistance|Arsenic_resistance_protein|PSTC,Metals,Arseni
 MEG_5816|Metals|Arsenic_resistance|Arsenic_resistance_protein|PSTS,Metals,Arsenic resistance,Arsenic resistance protein,PSTS
 MEG_5817|Metals|Arsenic_resistance|Arsenic_resistance_protein|PSTS,Metals,Arsenic resistance,Arsenic resistance protein,PSTS
 MEG_5818|Drugs|betalactams|Class_A_betalactamases|PSV,Drugs,betalactams,Class A betalactamases,PSV
-MEG_5819|Drugs|Fosfomycin|Fosfomycin_target_mutation|PTSL|RequiresSNPConfirmation,Drugs,Fosfomycin,Fosfomycin target mutation,PTSL
 MEG_5820|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_MFS_efflux_pumps|QACAB,Multi-compound,Drug and biocide resistance,Drug and biocide MFS efflux pumps,QACAB
 MEG_5821|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_MFS_efflux_pumps|QACAB,Multi-compound,Drug and biocide resistance,Drug and biocide MFS efflux pumps,QACAB
 MEG_5822|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_MFS_efflux_pumps|QACAB,Multi-compound,Drug and biocide resistance,Drug and biocide MFS efflux pumps,QACAB
@@ -6043,8 +5659,6 @@ MEG_6041|Drugs|betalactams|Class_A_betalactamases|RAHN,Drugs,betalactams,Class A
 MEG_6042|Drugs|betalactams|Class_A_betalactamases|RAHN,Drugs,betalactams,Class A betalactamases,RAHN
 MEG_6043|Drugs|betalactams|Class_A_betalactamases|RAHN,Drugs,betalactams,Class A betalactamases,RAHN
 MEG_6044|Drugs|Multi-drug_resistance|Multi-drug_RND_efflux_regulator|RAMA,Drugs,Multi-drug resistance,Multi-drug RND efflux regulator,RAMA
-MEG_6045|Drugs|Multi-drug_resistance|Multi-drug_RND_efflux_regulator|RAMR|RequiresSNPConfirmation,Drugs,Multi-drug resistance,Multi-drug RND efflux regulator,RAMR
-MEG_6046|Drugs|Multi-drug_resistance|Multi-drug_RND_efflux_regulator|RAMR|RequiresSNPConfirmation,Drugs,Multi-drug resistance,Multi-drug RND efflux regulator,RAMR
 MEG_6047|Drugs|Rifampin|RNA-polymerase_binding_protein|RBPA,Drugs,Rifampin,RNA-polymerase binding protein,RBPA
 MEG_6048|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|RCNA,Metals,Multi-metal resistance,Multi-metal resistance protein,RCNA
 MEG_6049|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|RCNB,Metals,Multi-metal resistance,Multi-metal resistance protein,RCNB
@@ -6053,7 +5667,6 @@ MEG_6051|Drugs|betalactams|Class_A_betalactamases|RCP,Drugs,betalactams,Class A 
 MEG_6052|Metals|Chromium_resistance|Chromium_resistance_protein|RECG,Metals,Chromium resistance,Chromium resistance protein,RECG
 MEG_6053|Metals|Multi-metal_resistance|Multi-metal_resistance_protein|RECGM,Metals,Multi-metal resistance,Multi-metal resistance protein,RECGM
 MEG_6054|Drugs|Rifampin|Rifampin_glycosyltransferase|RGT,Drugs,Rifampin,Rifampin glycosyltransferase,RGT
-MEG_6055|Drugs|Mycobacterium_tuberculosis-specific_Drug|Para-aminosalicylic_acid_resistant_mutant|RIBD|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Para-aminosalicylic acid resistant mutant,RIBD
 MEG_6056|Metals|Copper_resistance|Copper_resistance_regulator|RICR,Metals,Copper resistance,Copper resistance regulator,RICR
 MEG_6057|Drugs|MLS|23S_rRNA_methyltransferases|RLMA,Drugs,MLS,23S rRNA methyltransferases,RLMA
 MEG_6058|Drugs|MLS|23S_rRNA_methyltransferases|RLMH,Drugs,MLS,23S rRNA methyltransferases,RLMH
@@ -6088,64 +5701,8 @@ MEG_6086|Drugs|Rifampin|Rifampin_phosphotransferase|RPH,Drugs,Rifampin,Rifampin 
 MEG_6087|Drugs|Rifampin|Rifampin_phosphotransferase|RPH,Drugs,Rifampin,Rifampin phosphotransferase,RPH
 MEG_6088|Drugs|Rifampin|Rifampin_phosphotransferase|RPH,Drugs,Rifampin,Rifampin phosphotransferase,RPH
 MEG_6089|Drugs|Rifampin|Rifampin_phosphotransferase|RPH,Drugs,Rifampin,Rifampin phosphotransferase,RPH
-MEG_6090|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6091|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6092|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6093|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6094|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6095|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6096|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6097|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6098|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6099|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6100|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6101|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6102|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6103|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6104|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6105|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6106|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6107|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6108|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6109|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6110|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6111|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6112|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6113|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6114|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6115|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6116|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6117|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6118|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6119|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6120|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6121|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6122|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6123|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6124|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6125|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6126|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6127|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6128|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6129|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6130|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6131|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6132|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6133|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6134|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6135|Drugs|Rifampin|Rifampin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOB|RequiresSNPConfirmation,Drugs,Rifampin,Rifampin-resistant beta-subunit of RNA polymerase RpoB,RPOB
-MEG_6136|Drugs|Lipopeptides|Daptomycin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOBL|RequiresSNPConfirmation,Drugs,Lipopeptides,Daptomycin-resistant beta-subunit of RNA polymerase RpoB,RPOBL
-MEG_6137|Drugs|Lipopeptides|Daptomycin-resistant_beta-subunit_of_RNA_polymerase_RpoB|RPOBL|RequiresSNPConfirmation,Drugs,Lipopeptides,Daptomycin-resistant beta-subunit of RNA polymerase RpoB,RPOBL
-MEG_6138|Drugs|Glycopeptides|Vancomycin-resistant_mutation|RPOC|RequiresSNPConfirmation,Drugs,Glycopeptides,Vancomycin-resistant mutation,RPOC
-MEG_6139|Drugs|Lipopeptides|Daptomycin-resistant_beta-subunit_of_RNA_polymerase_RpoC|RPOCL|RequiresSNPConfirmation,Drugs,Lipopeptides,Daptomycin-resistant beta-subunit of RNA polymerase RpoC,RPOCL
 MEG_6140|Biocides|Multi-biocide_resistance|Multi-biocide_resistance_regulator|RPOS,Biocides,Multi-biocide resistance,Multi-biocide resistance regulator,RPOS
 MEG_6141|Biocides|Multi-biocide_resistance|Multi-biocide_resistance_regulator|RPOS,Biocides,Multi-biocide resistance,Multi-biocide resistance regulator,RPOS
-MEG_6142|Drugs|Mycobacterium_tuberculosis-specific_Drug|Pyrazinamide-resistant_mutant|RPSA|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Pyrazinamide-resistant mutant,RPSA
-MEG_6143|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|RPSJ|RequiresSNPConfirmation,Drugs,Tetracyclines,Tetracycline resistance ribosomal protection proteins,RPSJ
-MEG_6144|Drugs|Aminoglycosides|Aminoglycoside-resistant_16S_ribosomal_subunit_protein|RPSL|RequiresSNPConfirmation,Drugs,Aminoglycosides,Aminoglycoside-resistant 16S ribosomal subunit protein,RPSL
-MEG_6145|Drugs|Aminoglycosides|Aminoglycoside-resistant_16S_ribosomal_subunit_protein|RRSA|RequiresSNPConfirmation,Drugs,Aminoglycosides,Aminoglycoside-resistant 16S ribosomal subunit protein,RRSA
-MEG_6146|Drugs|Aminoglycosides|Aminoglycoside-resistant_16S_ribosomal_subunit_protein|RRSC|RequiresSNPConfirmation,Drugs,Aminoglycosides,Aminoglycoside-resistant 16S ribosomal subunit protein,RRSC
-MEG_6147|Drugs|Aminoglycosides|Aminoglycoside-resistant_16S_ribosomal_subunit_protein|RRSH|RequiresSNPConfirmation,Drugs,Aminoglycosides,Aminoglycoside-resistant 16S ribosomal subunit protein,RRSH
 MEG_6148|Drugs|betalactams|Class_A_betalactamases|RSA,Drugs,betalactams,Class A betalactamases,RSA
 MEG_6149|Drugs|betalactams|Class_A_betalactamases|RSA,Drugs,betalactams,Class A betalactamases,RSA
 MEG_6150|Drugs|betalactams|Class_A_betalactamases|RTG,Drugs,betalactams,Class A betalactamases,RTG
@@ -6546,11 +6103,9 @@ MEG_6544|Biocides|Peroxide_resistance|peroxide_resistance_protein|SODB,Biocides,
 MEG_6545|Biocides|Peroxide_resistance|peroxide_resistance_protein|SODB,Biocides,Peroxide resistance,peroxide resistance protein,SODB
 MEG_6546|Biocides|Peroxide_resistance|peroxide_resistance_protein|SODB,Biocides,Peroxide resistance,peroxide resistance protein,SODB
 MEG_6547|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_ABC_efflux_regulator|SOXR,Multi-compound,Drug and biocide resistance,Drug and biocide ABC efflux regulator,SOXR
-MEG_6548|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_ABC_efflux_regulator|SOXR|RequiresSNPConfirmation,Multi-compound,Drug and biocide resistance,Drug and biocide ABC efflux regulator,SOXR
 MEG_6549|Biocides|Multi-biocide_resistance|Multi-biocide_resistance_regulator|SOXRB,Biocides,Multi-biocide resistance,Multi-biocide resistance regulator,SOXRB
 MEG_6550|Biocides|Multi-biocide_resistance|Multi-biocide_resistance_regulator|SOXRB,Biocides,Multi-biocide resistance,Multi-biocide resistance regulator,SOXRB
 MEG_6551|Multi-compound|Drug_and_biocide_and_metal_resistance|Drug_and_biocide_and_metal_resistance_regulator|SOXS,Multi-compound,Drug and biocide and metal resistance,Drug and biocide and metal resistance regulator,SOXS
-MEG_6552|Multi-compound|Drug_and_biocide_and_metal_resistance|Drug_and_biocide_and_metal_resistance_regulator|SOXS|RequiresSNPConfirmation,Multi-compound,Drug and biocide and metal resistance,Drug and biocide and metal resistance regulator,SOXS
 MEG_6553|Drugs|betalactams|Class_B_betalactamases|SPG,Drugs,betalactams,Class B betalactamases,SPG
 MEG_6554|Drugs|betalactams|Class_B_betalactamases|SPM,Drugs,betalactams,Class B betalactamases,SPM
 MEG_6555|Drugs|betalactams|Class_B_betalactamases|SPN,Drugs,betalactams,Class B betalactamases,SPN
@@ -6961,8 +6516,6 @@ MEG_6959|Metals|Tellurium_resistance|Tellurium_resistance_protein|TERE,Metals,Te
 MEG_6960|Metals|Tellurium_resistance|Tellurium_resistance_protein|TERW,Metals,Tellurium resistance,Tellurium resistance protein,TERW
 MEG_6961|Metals|Tellurium_resistance|Tellurium_resistance_protein|TERZ,Metals,Tellurium resistance,Tellurium resistance protein,TERZ
 MEG_6962|Metals|Tellurium_resistance|Tellurium_resistance_protein|TERZ,Metals,Tellurium resistance,Tellurium resistance protein,TERZ
-MEG_6963|Drugs|Tetracyclines|Tetracycline-resistant_16S_ribosomal_subunit_protein|TET16S|RequiresSNPConfirmation,Drugs,Tetracyclines,Tetracycline-resistant 16S ribosomal subunit protein,TET16S
-MEG_6964|Drugs|Tetracyclines|Tetracycline-resistant_16S_ribosomal_subunit_protein|TET16S|RequiresSNPConfirmation,Drugs,Tetracyclines,Tetracycline-resistant 16S ribosomal subunit protein,TET16S
 MEG_6965|Drugs|Tetracyclines|Tetracycline_resistance_MFS_efflux_pumps|TET30,Drugs,Tetracyclines,Tetracycline resistance MFS efflux pumps,TET30
 MEG_6966|Drugs|Tetracyclines|Tetracycline_resistance_MFS_efflux_pumps|TET31,Drugs,Tetracyclines,Tetracycline resistance MFS efflux pumps,TET31
 MEG_6967|Drugs|Tetracyclines|Tetracycline_resistance_MFS_efflux_pumps|TET31,Drugs,Tetracyclines,Tetracycline resistance MFS efflux pumps,TET31
@@ -7183,19 +6736,6 @@ MEG_7181|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_protei
 MEG_7182|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETQ,Drugs,Tetracyclines,Tetracycline resistance ribosomal protection proteins,TETQ
 MEG_7183|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETQ,Drugs,Tetracyclines,Tetracycline resistance ribosomal protection proteins,TETQ
 MEG_7184|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETQ,Drugs,Tetracyclines,Tetracycline resistance ribosomal protection proteins,TETQ
-MEG_7185|Drugs|Tetracyclines|Tetracycline_transcriptional_repressor|TETR|RequiresSNPConfirmation,Drugs,Tetracyclines,Tetracycline transcriptional repressor,TETR
-MEG_7186|Drugs|Tetracyclines|Tetracycline_transcriptional_repressor|TETR|RequiresSNPConfirmation,Drugs,Tetracyclines,Tetracycline transcriptional repressor,TETR
-MEG_7187|Drugs|Tetracyclines|Tetracycline_transcriptional_repressor|TETR|RequiresSNPConfirmation,Drugs,Tetracyclines,Tetracycline transcriptional repressor,TETR
-MEG_7188|Drugs|Tetracyclines|Tetracycline_transcriptional_repressor|TETR|RequiresSNPConfirmation,Drugs,Tetracyclines,Tetracycline transcriptional repressor,TETR
-MEG_7189|Drugs|Tetracyclines|Tetracycline_transcriptional_repressor|TETR|RequiresSNPConfirmation,Drugs,Tetracyclines,Tetracycline transcriptional repressor,TETR
-MEG_7190|Drugs|Tetracyclines|Tetracycline_transcriptional_repressor|TETR|RequiresSNPConfirmation,Drugs,Tetracyclines,Tetracycline transcriptional repressor,TETR
-MEG_7191|Drugs|Tetracyclines|Tetracycline_transcriptional_repressor|TETR|RequiresSNPConfirmation,Drugs,Tetracyclines,Tetracycline transcriptional repressor,TETR
-MEG_7192|Drugs|Tetracyclines|Tetracycline_transcriptional_repressor|TETR|RequiresSNPConfirmation,Drugs,Tetracyclines,Tetracycline transcriptional repressor,TETR
-MEG_7193|Drugs|Tetracyclines|Tetracycline_transcriptional_repressor|TETR|RequiresSNPConfirmation,Drugs,Tetracyclines,Tetracycline transcriptional repressor,TETR
-MEG_7194|Drugs|Tetracyclines|Tetracycline_transcriptional_repressor|TETR|RequiresSNPConfirmation,Drugs,Tetracyclines,Tetracycline transcriptional repressor,TETR
-MEG_7195|Drugs|Tetracyclines|Tetracycline_transcriptional_repressor|TETR|RequiresSNPConfirmation,Drugs,Tetracyclines,Tetracycline transcriptional repressor,TETR
-MEG_7196|Drugs|Tetracyclines|Tetracycline_resistance_MFS_efflux_regulator|TETRM|RequiresSNPConfirmation,Drugs,Tetracyclines,Tetracycline resistance MFS efflux regulator,TETRM
-MEG_7197|Drugs|Tetracyclines|Tetracycline_resistance_MFS_efflux_regulator|TETRM|RequiresSNPConfirmation,Drugs,Tetracyclines,Tetracycline resistance MFS efflux regulator,TETRM
 MEG_7198|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETS,Drugs,Tetracyclines,Tetracycline resistance ribosomal protection proteins,TETS
 MEG_7199|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETS,Drugs,Tetracyclines,Tetracycline resistance ribosomal protection proteins,TETS
 MEG_7200|Drugs|Tetracyclines|Tetracycline_resistance_ribosomal_protection_proteins|TETS,Drugs,Tetracyclines,Tetracycline resistance ribosomal protection proteins,TETS
@@ -7248,7 +6788,6 @@ MEG_7246|Drugs|Tetracyclines|Tetracycline_resistance_MFS_efflux_pumps|TETY,Drugs
 MEG_7247|Drugs|Tetracyclines|Tetracycline_resistance_MFS_efflux_pumps|TETZ,Drugs,Tetracyclines,Tetracycline resistance MFS efflux pumps,TETZ
 MEG_7248|Drugs|Tetracyclines|Tetracycline_resistance_MFS_efflux_pumps|TETZ,Drugs,Tetracyclines,Tetracycline resistance MFS efflux pumps,TETZ
 MEG_7249|Drugs|betalactams|Class_B_betalactamases|THINB,Drugs,betalactams,Class B betalactamases,THINB
-MEG_7250|Drugs|Mycobacterium_tuberculosis-specific_Drug|Para-aminosalicylic_acid_resistant_mutant|THYA|RequiresSNPConfirmation,Drugs,Mycobacterium tuberculosis-specific Drug,Para-aminosalicylic acid resistant mutant,THYA
 MEG_7251|Drugs|betalactams|Class_A_betalactamases|TLA,Drugs,betalactams,Class A betalactamases,TLA
 MEG_7252|Drugs|betalactams|Class_A_betalactamases|TLA,Drugs,betalactams,Class A betalactamases,TLA
 MEG_7253|Drugs|betalactams|Class_A_betalactamases|TLA,Drugs,betalactams,Class A betalactamases,TLA
@@ -7256,8 +6795,6 @@ MEG_7254|Drugs|betalactams|Class_A_betalactamases|TLA,Drugs,betalactams,Class A 
 MEG_7255|Drugs|Glycopeptides|Bleomycin_resistance_protein|TLMB,Drugs,Glycopeptides,Bleomycin resistance protein,TLMB
 MEG_7256|Drugs|MLS|MLS_resistance_ABC_efflux_pumps|TLRC,Drugs,MLS,MLS resistance ABC efflux pumps,TLRC
 MEG_7257|Drugs|Multi-drug_resistance|Multi-drug_ABC_efflux_pumps|TLRCM,Drugs,Multi-drug resistance,Multi-drug ABC efflux pumps,TLRCM
-MEG_7258|Drugs|Aminoglycosides|Aminoglycoside-resistant_arabinosyltransferase|TLYA|RequiresSNPConfirmation,Drugs,Aminoglycosides,Aminoglycoside-resistant arabinosyltransferase,TLYA
-MEG_7259|Drugs|Aminoglycosides|Aminoglycoside-resistant_arabinosyltransferase|TLYA|RequiresSNPConfirmation,Drugs,Aminoglycosides,Aminoglycoside-resistant arabinosyltransferase,TLYA
 MEG_7260|Drugs|betalactams|Class_B_betalactamases|TMB,Drugs,betalactams,Class B betalactamases,TMB
 MEG_7261|Drugs|betalactams|Class_B_betalactamases|TMB,Drugs,betalactams,Class B betalactamases,TMB
 MEG_7262|Drugs|Nucleosides|Tunicamycin_resistance_protein|TMRB,Drugs,Nucleosides,Tunicamycin resistance protein,TMRB
@@ -7299,27 +6836,6 @@ MEG_7297|Biocides|Multi-biocide_resistance|Multi-biocide_RND_efflux_regulator|TT
 MEG_7298|Biocides|Multi-biocide_resistance|Multi-biocide_RND_efflux_regulator|TTGV,Biocides,Multi-biocide resistance,Multi-biocide RND efflux regulator,TTGV
 MEG_7299|Biocides|Multi-biocide_resistance|Multi-biocide_RND_efflux_regulator|TTGW,Biocides,Multi-biocide resistance,Multi-biocide RND efflux regulator,TTGW
 MEG_7300|Drugs|betalactams|Class_B_betalactamases|TTU,Drugs,betalactams,Class B betalactamases,TTU
-MEG_7301|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7302|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7303|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7304|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7305|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7306|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7307|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7308|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7309|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7310|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7311|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7312|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7313|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7314|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7315|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7316|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7317|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7318|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7319|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7320|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
-MEG_7321|Drugs|Elfamycins|EF-Tu_inhibition|TUFAB|RequiresSNPConfirmation,Drugs,Elfamycins,EF-Tu inhibition,TUFAB
 MEG_7322|Metals|Multi-metal_resistance|Multi-metal_ABC_efflux_regulator|TUNR,Metals,Multi-metal resistance,Multi-metal ABC efflux regulator,TUNR
 MEG_7323|Metals|Tungsten_Resistance|Tungsten_ABC_efflux_pumps|TUPA,Metals,Tungsten Resistance,Tungsten ABC efflux pumps,TUPA
 MEG_7324|Metals|Tungsten_Resistance|Tungsten_ABC_efflux_pumps|TUPB,Metals,Tungsten Resistance,Tungsten ABC efflux pumps,TUPB
@@ -7327,11 +6843,8 @@ MEG_7325|Metals|Tungsten_Resistance|Tungsten_ABC_efflux_pumps|TUPC,Metals,Tungst
 MEG_7326|Drugs|betalactams|Class_B_betalactamases|TUS,Drugs,betalactams,Class B betalactamases,TUS
 MEG_7327|Drugs|Multi-drug_resistance|Multi-drug_ABC_efflux_pumps|TVAA,Drugs,Multi-drug resistance,Multi-drug ABC efflux pumps,TVAA
 MEG_7328|Drugs|Cationic_antimicrobial_peptides|Lipid_A_modification|UGD,Drugs,Cationic antimicrobial peptides,Lipid A modification,UGD
-MEG_7329|Drugs|Fosfomycin|Fosfomycin_target_mutation|UHPT|RequiresSNPConfirmation,Drugs,Fosfomycin,Fosfomycin target mutation,UHPT
-MEG_7330|Drugs|Fosfomycin|Fosfomycin_target_mutation|UHPT|RequiresSNPConfirmation,Drugs,Fosfomycin,Fosfomycin target mutation,UHPT
 MEG_7331|Drugs|Glycopeptides|VanA-type_resistance_protein|VAN,Drugs,Glycopeptides,VanA-type resistance protein,VAN
 MEG_7332|Drugs|Glycopeptides|VanA-type_resistance_protein|VAN,Drugs,Glycopeptides,VanA-type resistance protein,VAN
-MEG_7333|Drugs|Glycopeptides|VanA-type_resistance_protein|VAN|RequiresSNPConfirmation,Drugs,Glycopeptides,VanA-type resistance protein,VAN
 MEG_7334|Drugs|Glycopeptides|VanA-type_resistance_protein|VAN,Drugs,Glycopeptides,VanA-type resistance protein,VAN
 MEG_7335|Drugs|Glycopeptides|VanA-type_resistance_protein|VAN,Drugs,Glycopeptides,VanA-type resistance protein,VAN
 MEG_7336|Drugs|Glycopeptides|VanA-type_resistance_protein|VANA,Drugs,Glycopeptides,VanA-type resistance protein,VANA
@@ -7804,7 +7317,6 @@ MEG_7802|Drugs|Multi-drug_resistance|Multi-drug_ABC_efflux_pumps|VMLR,Drugs,Mult
 MEG_7803|Biocides|Multi-biocide_resistance|Multi-biocide_MATE_efflux_pump|VMRA,Biocides,Multi-biocide resistance,Multi-biocide MATE efflux pump,VMRA
 MEG_7804|Drugs|Mycobacterium_tuberculosis-specific_Drug|Viomycin_phosphotransferases|VPH,Drugs,Mycobacterium tuberculosis-specific Drug,Viomycin phosphotransferases,VPH
 MEG_7805|Biocides|Multi-biocide_resistance|Multi-biocide_RND_efflux_pump|VPOC,Biocides,Multi-biocide resistance,Multi-biocide RND efflux pump,VPOC
-MEG_7806|Drugs|Lipopeptides|Daptomycin-resistant_mutant|WALK|RequiresSNPConfirmation,Drugs,Lipopeptides,Daptomycin-resistant mutant,WALK
 MEG_7807|Drugs|betalactams|Class_A_betalactamases|WHH,Drugs,betalactams,Class A betalactamases,WHH
 MEG_7808|Metals|Multi-metal_resistance|Multi-metal_ABC_efflux_pumps|WTPA,Metals,Multi-metal resistance,Multi-metal ABC efflux pumps,WTPA
 MEG_7809|Metals|Multi-metal_resistance|Multi-metal_ABC_efflux_pumps|WTPB,Metals,Multi-metal resistance,Multi-metal ABC efflux pumps,WTPB
@@ -7838,10 +7350,8 @@ MEG_7836|Multi-compound|Biocide_and_metal_resistance|Biocide_and_metal_resistanc
 MEG_7837|Biocides|Multi-biocide_resistance|Multi-biocide_resistance_protein|YJCG,Biocides,Multi-biocide resistance,Multi-biocide resistance protein,YJCG
 MEG_7838|Multi-compound|Drug_and_biocide_and_metal_resistance|Drug_and_biocide_and_metal_SMR_efflux_pump|YKKC,Multi-compound,Drug and biocide and metal resistance,Drug and biocide and metal SMR efflux pump,YKKC
 MEG_7839|Multi-compound|Drug_and_biocide_and_metal_resistance|Drug_and_biocide_and_metal_SMR_efflux_pump|YKKC,Multi-compound,Drug and biocide and metal resistance,Drug and biocide and metal SMR efflux pump,YKKC
-MEG_7840|Drugs|Lipopeptides|Defensin-resistant_mutant|YKKCL|RequiresSNPConfirmation,Drugs,Lipopeptides,Defensin-resistant mutant,YKKCL
 MEG_7841|Multi-compound|Biocide_and_metal_resistance|Biocide_and_metal_resistance_protein|YODB,Multi-compound,Biocide and metal resistance,Biocide and metal resistance protein,YODB
 MEG_7842|Multi-compound|Drug_and_biocide_resistance|Drug_and_biocide_ABC_efflux_pumps|YOGI,Multi-compound,Drug and biocide resistance,Drug and biocide ABC efflux pumps,YOGI
-MEG_7843|Drugs|Lipopeptides|Daptomycin-resistant_mutant|YYBT|RequiresSNPConfirmation,Drugs,Lipopeptides,Daptomycin-resistant mutant,YYBT
 MEG_7844|Drugs|Glycopeptides|Bleomycin_resistance_protein|ZBMA,Drugs,Glycopeptides,Bleomycin resistance protein,ZBMA
 MEG_7845|Metals|Zinc_resistance|Zinc_resistance_protein|ZEVA,Metals,Zinc resistance,Zinc resistance protein,ZEVA
 MEG_7846|Metals|Zinc_resistance|Zinc_resistance_protein|ZEVB,Metals,Zinc resistance,Zinc resistance protein,ZEVB
